@@ -12,7 +12,7 @@ A modern, responsive calculator with glitch effects and smooth animations.
 
 ## 🚀 Live Demo
 
-Visit: [https://your-username.github.io/subbu-calculator/](https://your-username.github.io/subbu-calculator/)
+Visit: [https://your-username.github.io/subbu-calculator/](https://subburathinam-m.github.io/WebCalculator/)
 
 ## 🛠️ Technologies Used
 
